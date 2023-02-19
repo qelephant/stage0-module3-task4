@@ -10,9 +10,9 @@ public class IntRepresentation {
         char h1= (char) h;
         char a1= (char) a;
         char r1= (char) r;
-        System.out.print(c1);
-        System.out.print(h1); 
-        System.out.print(a1); 
-        System.out.print(r1); 
+        System.out.println(c1);
+        System.out.println(h1); 
+        System.out.println(a1); 
+        System.out.println(r1); 
     }
 }
